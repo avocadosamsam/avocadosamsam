@@ -68,7 +68,7 @@ Division of Mechanical System Engineering ```(03/2020 ~ 02/2025)```
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/ANSYS-FF6C37?style=flat-square&logo=ANSYS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matlab-FF0000?style=flat-square&logo=Matlab&logoColor=white">
+<img src="https://img.shields.io/badge/MATLAB-FF0000?style=flat-square&logo=MATLAB&logoColor=white">
 <img src="https://img.shields.io/badge/LabVIEW-4285F4?style=flat-square&logo=LabVIEW&logoColor=white"/>
 
 
