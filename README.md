@@ -32,15 +32,17 @@
 + Presented as a representative at the session for college students of the Korean Society of Propulsion Engineers(KSPE)(2022)
 
 
-
 **University of Incarnate Word - AVS LAB**, United States ```(07/2023 ~ 12/2023 )```
 + Exchange Student / Department of Mechaical Engineering
 + Ungraduate Researcher / Studied Control System Engineering at the AVS Lab in UIW
 
 
 ## 🎓 Education
-Division of Mechanical System Engineering ```(03/2020 ~ 02/2025)```
+Division of Mechanical System Engineering ```(03/2020 ~ 02/2026)```
 + Kyonggi University, Suwon
+
+Exchange Student of University of Incarnate Word, San Antonio, Texas, USA  ```(07/2023 ~ 12/2023)```
++ Worked as an undergraduate research assistant, focusing on automatic control research using MATLAB
 
 
 
