@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, I'm Hwayoung Kim!</h1>
 
 
-## 🔭 I’m currently working on **VFSPACE & Laboratory of Computational Fluid Dynamics**
+## 🔭 I’m currently working on **Laboratory of Computational Fluid Dynamics**
 
 
 <div align="center">
@@ -17,10 +17,13 @@
 ## 🖥️ Research Experiences
 **CFD Lab**(Computational Fluild Dynamics Laboratory), Korea ```(01/2022 ~ Present )```
 +  Undergraduate Researcher / Studying Ansys and Finite element analysis
-+  The aerodynamic drag of an airfoil-type the rocket fins was analyzed. The drag force of the airfoil and non-airfoil rocket fins was compared and applied it in the 2023 rocket design(2023)
-+  Currently, programming Finite element analysis using C++
++ Developed a CFD-based solution to address rising data center power consumption by analyzing flow guide effects in single-phase immersion cooling systems; presented the research at the 2024 National College Student Fluid Engineering Contest (2024)
++ Analyzed the aerodynamic drag of airfoil-type rocket fins and compared it to non-airfoil fins. Applied the findings of the 2023 rocket design (2023)
 
-  
+**VF Space**, Seoul, Korea ```(06/2024 ~ 8/2024 )```
++ Developed and managed valve control systems for the Launch Vehicle R&D Team
++ Participated in the development of a fuel injection nozzle used for propellant delivery in a liquid-fueled rocket. Designed and implemented a valve control system for nozzle testing equipment using NI-DAQmx and LabVIEW, utilizing cDAQ-9189, NI-9476, and NI-9205 modules
+
 
 **Rocket Club-KURBC**, Kyonggi University, Korea ```(01/2022 ~ Present )```
 + Establish the Rocket club and lead it as the president
@@ -42,10 +45,8 @@ Division of Mechanical System Engineering ```(03/2020 ~ 02/2025)```
 
 
 ## More about Me
-- 🤝 I’m looking for help with **Petroleum Engineering**
-
+- 🤝  I'm looking to collaborate on CFD for Data Center Cooling.
 - 📝 I regularly write articles on [https://blog.naver.com/kimwhayoung0115](https://blog.naver.com/kimwhayoung0115)
-
 - 📫 How to reach me **avocadosamsam@gmail.com**
 
 
